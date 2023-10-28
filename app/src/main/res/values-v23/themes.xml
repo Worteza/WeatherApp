@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.WeatherApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/status_bar_sunset</item>
+
+        <!-- Настройка цвета статусной полосы -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
